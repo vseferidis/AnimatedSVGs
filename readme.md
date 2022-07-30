@@ -1,0 +1,1 @@
+# This is a project that aims to publish an open source library for animated SVGs. 
