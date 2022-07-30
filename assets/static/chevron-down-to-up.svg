@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created by Victor Seferidis | seferidis.de -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" cursor="pointer" style="white-space: pre;">
+    <title>chevron-down to up</title>
+    <desc>Mostly for dropdowns buttons</desc>
+    <path d="M0,0L10,10L20,0" fill="none" stroke-linecap="round" stroke="#3d4f5c" stroke-opacity="1" fill-opacity="1" stroke-width="2" stroke-linejoin="round" transform="translate(2,8)"/>
+</svg>

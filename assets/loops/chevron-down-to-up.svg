@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created by Victor Seferidis | seferidis.de -->
+<svg xmlns="http://www.w3.org/2000/svg" id="_a0" viewBox="0 0 24 24" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" cursor="pointer" onpointerenter="document.getElementById('_a0').getAnimations({subtree:true}).forEach(function(a){a.play()})" style="white-space: pre;">
+    <title>chevron-down to up</title>
+    <desc>Mostly for dropdowns buttons</desc>
+    <style>
+@keyframes a0_d { 0% { d: path('M0,6L10,14L20,6'); animation-timing-function: cubic-bezier(0.25,0.75,0,1); } 40% { d: path('M0,14L10,6L20,14'); animation-timing-function: cubic-bezier(0.25,0.75,0,1); } 60% { d: path('M0,14L10,6L20,14'); animation-timing-function: cubic-bezier(0.25,0.75,0,1); } 100% { d: path('M0,6L10,14L20,6'); animation-timing-function: cubic-bezier(0.25,0.75,0,1); } }
+    </style>
+    <path d="M0,6L10,14L20,6" fill="none" stroke-linecap="round" stroke="#3d4f5c" stroke-opacity="1" fill-opacity="1" stroke-width="2" stroke-linejoin="round" transform="translate(2,3)" style="animation: 5s linear both a0_d; animation-play-state: paused;"/>
+</svg>
