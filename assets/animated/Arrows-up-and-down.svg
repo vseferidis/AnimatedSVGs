@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="ud" width="24" height="24" viewBox="0 0 24 24" fill="none" cursor="pointer" onpointerenter="document.getElementById('ud').getAnimations({subtree:true}).forEach(function(a){a.play()})">
+	<style>
+		@keyframes a0_t { 0% { transform: translate(7px,15px) scaleY(-1); animation-timing-function: cubic-bezier(.2,.8,.4,1); } 15% { transform: translate(7px,18px) scaleY(-1); } 50% { transform: translate(7px,18px) scaleY(-1); animation-timing-function: cubic-bezier(.2,.8,.4,1); } 65% { transform: translate(7px,15px) scaleY(-1); animation-timing-function: cubic-bezier(.2,.8,.4,1); } 100% { transform: translate(7px,15px) scaleY(-1); } }
+		@keyframes a1_t { 0% { transform: translate(7px,9px); animation-timing-function: cubic-bezier(.2,.8,.4,1); } 15% { transform: translate(7px,6px); } 50% { transform: translate(7px,6px); animation-timing-function: cubic-bezier(.2,.8,.4,1); } 65% { transform: translate(7px,9px); animation-timing-function: cubic-bezier(.2,.8,.4,1); } 100% { transform: translate(7px,9px); } }
+	</style>
+	<path d="M0 0l5-5l5 5" stroke-linecap="round" stroke="#3d4f5c" stroke-width="2" stroke-linejoin="round" transform="translate(7,15) scale(1,-1)" style="animation: 2s linear both a0_t; animation-play-state: paused;" />
+	<path d="M0 0l5-5l5 5" stroke-linecap="round" stroke="#3d4f5c" stroke-width="2" stroke-linejoin="round" transform="translate(7,9)" style="animation: 2s linear both a1_t; animation-play-state: paused;" />
+</svg>
